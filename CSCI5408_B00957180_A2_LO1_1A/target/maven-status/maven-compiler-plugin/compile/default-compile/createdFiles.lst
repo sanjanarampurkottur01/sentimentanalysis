@@ -1,0 +1,7 @@
+dal/csci5408/mongodb/NewsArticleRepository.class
+dal/csci5408/mongodb/model/NewsArticle.class
+dal/csci5408/ReuterProcessor.class
+dal/csci5408/mongodb/ReutRead.class
+dal/csci5408/sentiment/Polarity.class
+dal/csci5408/sentiment/SentimentalAnalyzer.class
+dal/csci5408/mongodb/identity/Credentials.class
